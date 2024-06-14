@@ -1,16 +1,20 @@
-# start_for_day_one
 
-A new Flutter project.
+# Login and Decription Pages
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Login
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/login_page.png" width="200"/>
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/login.png" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Home Page
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/homepage1.png" width="200"/>
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/homepage2.png" width="200"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Description Page
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/description1.png" width="200"/>
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/description2.png" width="200"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Theme Color
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/theme_color1.png" width="200"/>
+<img src="https://github.com/TFDNINE9/basic-flutter/blob/main/screenshot/theme_color2.png" width="200"/>
+
