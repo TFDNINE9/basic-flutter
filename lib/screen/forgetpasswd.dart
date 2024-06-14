@@ -26,7 +26,8 @@ class _ScforgetpwState extends State<Scforgetpw> {
                 Color.fromARGB(255, 255, 187, 39),
               ],
             ),
-          ),        ),
+          ),
+        ),
       ),
     );
   }
