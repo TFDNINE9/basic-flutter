@@ -140,7 +140,7 @@ class _HomePageState extends State<HomePage> {
                       foregroundColor: Colors.black,
                       shape: const StadiumBorder(),
                     ),
-                    child: const Text('Stop being gay'),
+                    child: const Text('food'),
                   ),
                 ],
               ),
